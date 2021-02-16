@@ -1,0 +1,6 @@
+*.md
+Dockerfile
+.gitignore
+main.yml
+.git
+.cache

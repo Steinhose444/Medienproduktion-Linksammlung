@@ -1,1 +1,3 @@
+RewriteEngine On
+
 Redirect /discord https://discord.gg/EqF9QVuR83
